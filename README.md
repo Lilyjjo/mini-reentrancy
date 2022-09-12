@@ -1,8 +1,9 @@
 # Mini Reentrancy Example
 
-This project demonstrates a basic reentrancy vulnerability.
+This project demonstrates a basic reentrancy vulnerability! Code is borrowed from https://ethernaut.openzeppelin.com/
 
-Contracts with issues in: /contracts/UnsafeBank.sol
+Vulnerable and attaking contracts in: /contracts/UnsafeBank.sol
+
 Test case: /test/UnsafeBank.ts
 
 To install the dependencies:
